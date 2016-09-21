@@ -17,7 +17,11 @@ import edu.wpi.first.wpilibj.Joystick;
 import edu.wpi.first.wpilibj.buttons.JoystickButton;
 import org.usfirst.frc5265.jakesattempt.subsystems.*;
 
+<<<<<<< HEAD
+// test change by BigFudge.2
+=======
 // test change by BigFudge.2.0
+>>>>>>> master
 
 /**
  * This class is the glue that binds the controls on the physical operator
